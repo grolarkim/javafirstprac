@@ -1,0 +1,57 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "javafirst_d0e49f67"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataNOperation",
+            "request": "launch",
+            "mainClass": "DataNOperation",
+            "projectName": "javafirst_d0e49f67"
+        },
+        {
+            "type": "java",
+            "name": "Launch OkJavaGoInHome",
+            "request": "launch",
+            "mainClass": "OkJavaGoInHome",
+            "projectName": "javafirst_d0e49f67",
+            "args":"'Java APT 404' '15'"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "javafirst_d0e49f67"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringApp",
+            "request": "launch",
+            "mainClass": "StringApp",
+            "projectName": "javafirst_d0e49f67"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "javafirst_d0e49f67"
+        }
+    ]
+}

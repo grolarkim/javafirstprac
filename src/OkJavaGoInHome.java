@@ -27,6 +27,5 @@ public class OkJavaGoInHome {
         DimmingLights moodLamp = new DimmingLights(id + " moodLamp");
         moodLamp.setBright(Double.parseDouble(bright));
         moodLamp.on();
-
     }
 }
